@@ -17,6 +17,7 @@ create neccessary webpages for the places on the map
 ### step 6:
 push to README.md and push to Github repository
 ## Code:
+```
 index.html:
 <!DOCTYPE html>
 <html>
@@ -153,7 +154,7 @@ tempel.html:
         India few of them are listed below.
     </body>  
 </html>     
-
+```
 
 
        
@@ -175,7 +176,7 @@ tabunhotel.html:
 ![tabunhotel.html](tabunhotel.jpg)
 
 tempel.html:
-![tempel.html](tempel.jpg)
+![tempel.html](Temple.jpg)
 
 
 ## Result:
