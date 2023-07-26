@@ -39,6 +39,7 @@ index.html:
         </map>
     </body>
 </html>
+
 college.html:
 <!DOCTYPE html>
 <html>
@@ -167,7 +168,7 @@ college.html:
 ![college.html](college.jpg)
 
 convectionhall.html:
-![convectionhall.html](convection.jpg)
+![convectionhall.html](convectionhall.jpg)
 
 home.html
 ![home.html](home.jpg)
@@ -177,6 +178,9 @@ tabunhotel.html:
 
 tempel.html:
 ![tempel.html](Temple.jpg)
+
+validity:
+![validity](validity.jpg)
 
 
 ## Result:
